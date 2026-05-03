@@ -38,12 +38,7 @@ It helps to analyze performance by **Name, Product, and State**.
 
 <img width="1313" height="731" alt="Screenshot 2026-05-03 235810" src="https://github.com/user-attachments/assets/b00f139a-82bd-4740-9a9b-537b4e14f626" />
 
----
 
-
-```
-
----
 
 ## 🚀 How to Use
 
@@ -69,10 +64,9 @@ It helps to analyze performance by **Name, Product, and State**.
 
 ---
 
-## 👤 Author
+👤 Author
 
 Hasnain Rami
-GitHub: https:ramiinsights · he/him
----
+GitHub: https://github.com/ramiinsights · he/him
 
 
