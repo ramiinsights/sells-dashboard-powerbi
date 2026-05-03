@@ -1,31 +1,22 @@
-# sells-dashboard-
-🔍 Project Overview
-An interactive Sells Dashboard built with Power BI that provides a comprehensive view of product sales performance, profit analysis, and regional distribution. The dashboard features dynamic day-range filtering to explore trends across any time period.
-
-📌 Key Features
-
-Name Wise Profit — Horizontal bar chart ranking sales representatives by total profit (Chitra leads at 171K)
-Product Wise Profit — Column chart comparing profit across 10+ products (Gajar ka Halwa tops at 130K)
-Product Wise Selling Price — Area/line chart tracking selling price trends by Product ID
-Product State Wise Profit — Regional profit distribution across Indian states (Uttar Pradesh leads at 143K)
-Interactive Day Slicer — Filter all visuals by day range (Day 1–25)
-
-
-🛠️ Tools Used
-ToolPurposePower BI DesktopDashboard design & data visualisationExcelData source & preparationDAXCalculated measures & KPIs
-
-📈 Key Insights
-
-Top Performer: Chitra with 171K total profit
-Best Product: Gajar ka Halwa generating 130K profit
-Top State: Uttar Pradesh leads regional sales at 143K
-Product ID 108 shows the highest selling price spike at 5.6K
-
-
-
-🚀 How to Use
-
-Clone or download this repository
-Open sells_dashboard.pbix in Power BI Desktop
-Use the Day slicer (top right) to filter by date range
-Explore each visual for detailed insights
+Title:
+Sells Dashboard — Power BI
+Project Objective:
+Built an interactive Sells Dashboard in Power BI to analyse 
+product-wise profit, sales rep performance, selling price 
+trends, and regional distribution across Indian states.
+Tools Used:
+Power BI Desktop, Microsoft Excel, DAX
+Key Features:
+- Name Wise Profit — sales rep ranking by total profit
+- Product Wise Profit — profit comparison across 10 products
+- Product Wise Selling Price — price trend by Product ID
+- Product State Wise Profit — regional profit by Indian states
+- Interactive Day Slicer — filter all visuals (Day 1 to 25)
+Key Insights:
+- Chitra is the top sales rep with 171K profit
+- Gajar ka Halwa is the best product at 130K profit
+- Uttar Pradesh leads regionally at 143K
+- Product ID 108 has the highest selling price at 5.6K
+Author:
+Khandakar Nafis Hasnain Rami
+Data Analyst | Daffodil International University, Dhaka
