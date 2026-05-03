@@ -22,11 +22,6 @@ Top State: Uttar Pradesh leads regional sales at 143K
 Product ID 108 shows the highest selling price spike at 5.6K
 
 
-📂 Project Structure
-sells-dashboard-powerbi/
-│
-├── "C:\Users\User1\Downloads\dashboard-preview.png"    # Dashboard screenshot
-└── sells_dashboard.pbix      # Power BI file (if available)
 
 🚀 How to Use
 
